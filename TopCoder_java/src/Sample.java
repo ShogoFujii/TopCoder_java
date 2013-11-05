@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("dsf sdfdssdjgnkjs");
 
 		System.out.println("testss");
+		System.out.println("テストです");
 	}
 
 }
